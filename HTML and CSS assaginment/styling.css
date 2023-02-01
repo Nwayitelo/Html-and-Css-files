@@ -1,0 +1,72 @@
+html{
+
+ height:100%;
+}
+body{
+	margin:0;
+	padding:0;
+	height:100%;
+
+}
+
+h1 {
+color:grey;
+text-decoration:underline;
+}
+
+h2{
+color:rgba(255,255,255,0.5);
+font-family:georgia;
+text-decoration:underline;
+}
+
+ul{
+	text-decoration:none;
+	list-style-type:none;
+text-align:center;
+nk
+}
+ .img{
+background-image:url(veg/blog.jpg);
+background-position:center;
+background-size:cover;
+background-repeat:no-repeat;
+width:inherit;
+height:inherit;
+ }
+ 
+ p{
+	 text-decoration:none;
+text-align:center;
+color:black;
+ }
+ .p{
+	 text-decoration:none;
+ }
+
+
+
+
+a:link{
+	background-color:inherit;
+	color:white;
+}
+
+a:hover{
+	background-color:(120,120,120,0.5);
+	text-decoration:underline;
+     color:blue;
+}
+
+a:visited{
+	color:black;
+}
+
+a:Active{
+	font:rgba(00,00,00,0.7);
+	color:blue;
+}
+
+.img {
+	padding-left:10px;
+}
